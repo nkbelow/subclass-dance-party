@@ -18,10 +18,10 @@ body, a:link, a:visited, a:active{
   padding:5px 12px;
   float:right;
 }
-.addDancerButton {
+.button {
   padding: 5px 12px;
   float:left;
-  border: 5px solid black;
+  border: 5px;
 }
 .topbar{
   height:32px;
@@ -35,3 +35,5 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+
+
